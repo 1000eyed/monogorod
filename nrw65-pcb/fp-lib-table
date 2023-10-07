@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nrw65-pcb")(type "KiCad")(uri "/home/thousandeyed/Documents/nrw65/nrw65-pcb")(options "")(descr ""))
+)
